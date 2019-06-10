@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://i0.wp.com/metro.co.uk/wp-content/uploads/2018/12/rachelgreenfriends2-5e37.jpg?quality=90&strip=all&zoom=1&resize=644%2C441&ssl=1",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://vignette.wikia.nocookie.net/friends/images/5/5c/TOWRoss%27Tan.png/revision/latest?cb=20180612053911",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "http://s15858.pcdn.co/wp-content/uploads/2017/04/lead-phoebe-buffay.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://cld.fame10.com/image/upload/t_tn,f_auto,q_auto,$h_400,$w_620/f10/2015/11/Chandler-Bing-620x400.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://imgix.bustle.com/rehost/2016/9/13/448e1dea-fcbc-4f59-acab-25946e3e47ac.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://i.ytimg.com/vi/QPngpHrP924/maxresdefault.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/04/gunther2-0c0e.png?quality=90&strip=all&zoom=1&resize=644%2C396&ssl=1",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://images.news18.com/ibnlive/uploads/2016/08/janice.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://66.media.tumblr.com/bbca54c1159af9a7fc99d4146a47fea7/tumblr_p9n3yrky3j1xvowbyo1_250.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "http://www.comedycentral.co.uk/sites/default/files/styles/image-w-520-h-520-scale/public/cc_uk/galleries/large/2016/05/13/l3.jpg?itok=5C544SF2",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://pixel.nymag.com/imgs/daily/vulture/2014/12/08/08-richard-friends.w700.h700.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://vignette.wikia.nocookie.net/friends/images/7/78/Freinds-ursula.png/revision/latest/scale-to-width-down/185?cb=20150721050647",
+      "clicked": false
+    }
+  ]

@@ -1,0 +1,14 @@
+.wrapper {
+    background: rgb(221, 218, 218);
+    background-image: url('https://imagesvc.meredithcorp.io/v3/mm/gif?url=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F04%2F06044543%2Ffriends-one.gif&w=600&c=sc&poi=face&q=85');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
